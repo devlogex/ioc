@@ -1,5 +1,7 @@
 package com.tnd.test.ioc.xml;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 public class Controller {
     private MessageService messageService;
 

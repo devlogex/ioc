@@ -12,5 +12,5 @@
 <!--        <constructor-arg name="messageService" ref="messageService"/>-->
     </bean>
 
-    <bean class="com.tnd.test.ioc.xml.InstantiationTracingBeanPostProcessor"/>
+<!--    <bean class="com.tnd.test.ioc.xml.InstantiationTracingBeanPostProcessor"/>-->
 </beans>
